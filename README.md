@@ -15,15 +15,17 @@ O projeto está organizado em células do Jupyter Notebook para uma análise pas
 
 
 ## Análises
-#### Salários por Experiência e Tamanho de Empresa
+##### Salários por Experiência e Tamanho de Empresa
 
-#### Relação entre experiência, tamanho da empresa e salários médios.
-#### Educação dos Profissionais Empregados
+##### Relação entre experiência, tamanho da empresa e salários médios.
+##### Educação dos Profissionais Empregados
 
-#### Distribuição educacional dos profissionais empregados.
-#### Métodos de Ensino em 2023
+##### Distribuição educacional dos profissionais empregados.
+##### Métodos de Ensino em 2023
 
-#### Preferências de métodos de ensino entre desenvolvedores.
+##### Preferências de métodos de ensino entre desenvolvedores.
+
+![Stack_Overflow](https://github.com/mateussoliv/Stack_Overflow_Annual_Developer_Survey/assets/91861565/edb33e07-4090-4d85-a2f8-24ee4752a5b7)
 
 ## Contribuições
 Contribuições são bem-vindas via problemas ou solicitações de pull.
