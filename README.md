@@ -6,9 +6,7 @@ Este projeto visa analisar dados do Stack Overflow Annual Developer Survey para 
 
 
 ## Ferramentas
-Python: Pandas, Matplotlib, Seaborn, Numpy
-Locale
-Jupyter Notebook
+Python: Pandas, Matplotlib, Seaborn, Numpy, Jupyter Notebook
 
 ## Estrutura do Projeto
 O projeto está organizado em células do Jupyter Notebook para uma análise passo a passo e clara. Cada seção do notebook aborda um aspecto específico da pesquisa, incluindo visualizações gráficas.
